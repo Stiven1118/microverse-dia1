@@ -1,6 +1,25 @@
-# Mi primer repo para Microverse
+# Microverse dia 1
 
-este es mi primer proyecto del entrenamiento para microverse 
+!Bienvenido a mi repositorio de entrenamiento para microverse!
 
--autor: BRAYAN STIVEN PINILLA ACUÑA
--fecha: 2025-07-03
+# ccontenido
+
+- configuracion de git y github
+- generacion y conexión de clave SSH
+- primer repositorio subido
+- manejo de errores comunes
+
+## Tecnologías
+
+- git
+- github CLI
+- Linux (Kali)
+
+# Autor
+
+Brayan Stiven Pinilla Acuña - [GitHub](https://github.com/Stiven1118)
+
+---
+
+> Proyecto realizado como parte del entrenamiento para Microverse.
+
